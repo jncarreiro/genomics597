@@ -1,6 +1,6 @@
 ---
 title: "Evolutionary Genomics and Bioinformatics"
-author: Jeannie Carreiro
+author: "Jeannie Carreiro"
 output: html_document
 bibliography: references.bib
 ---
@@ -11,4 +11,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [Lab1](lab1_jeanniecarreiro.html)
 
-[Lab2](lab2.html)
+[Lab2](lab2_jeanniecarreiro.html)
