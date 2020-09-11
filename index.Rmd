@@ -9,6 +9,8 @@ bibliography: references.bib
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-[Lab1](lab1_jeanniecarreiro.html)
+[Lab1](Lab1_jeanniecarreiro.html)
 
-[Lab2](lab2_jeanniecarreiro.html)
+[Lab2](Lab2_jeanniecarreiro.html)
+
+# [Lab3](Lab3_jeanniecarreiro.html)(Lab3A_jeanniecarreiro.html)(Lab3B_jeanniecarreiro.html)

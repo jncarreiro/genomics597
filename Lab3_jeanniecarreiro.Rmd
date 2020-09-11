@@ -1,0 +1,27 @@
+---
+title: "Lab3_jeanniecarreiro"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+install.packages("readr")
+install.packages("dplyr")
+install.packages("tidyr")
+install.packages("stringr")
+install.packages("ggplot")
+install.packages("purrr")
+```
+
+```{r}
+ download.file(url="https://ndownloader.figshare.com/files/2292169",
+              destfile = "data/portal_data_joined.csv")
+```
+
+
+              
